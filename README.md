@@ -9,6 +9,7 @@
 </p>
 
 
+
 ## Interesting Facts !!! 🤔
 
 - 🔭 I love Problem Solving and Application Development !!!
@@ -20,6 +21,8 @@
 - 😄 Pronouns: He/Him
 - 🥅 2025 Goals: Contribute more, learn and Create more !!
 - ⚡ Fun fact: Big Fan to Listen Music & Sketching
+
+
 
 
 ## Connect With Me !!!👨‍💻
@@ -37,6 +40,8 @@
 
 <br>
 
+
+
 # 🚀 My Skills and TechStacks
 
 ### 🧑‍💻 Frontend
@@ -50,6 +55,8 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-6DB33F?style=for-the-badge&logo=ajax&logoColor=black)
+
+
 
 ### ⚙️ Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -65,6 +72,8 @@
 ![JSTL](https://img.shields.io/badge/JSTL-25A162?style=for-the-badge&logoColor=white)
 ![API](https://img.shields.io/badge/API-2D9BF0?style=for-the-badge&logo=api&logoColor=white)
 
+
+
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -72,11 +81,15 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-25A162?style=for-the-badge&logoColor=white)
 
+
+
 ### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-222222?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 
 ### 🧰 Developer Tools
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
@@ -99,10 +112,13 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=event+Management&color=DD0031&logoColor=FFFFFF&label=)
 
 
+
 ## ⚙️ Platforms
 
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+
+
 
 ## 🔧 Tools
 
@@ -116,9 +132,12 @@
 ![](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=)
 
 
+
 ## 💻 Operating System
 
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+
+
 
 ## 🥅 Competetive Coding Platforms 
 
@@ -130,6 +149,8 @@
 
 <br />
 
+
+
 ## 🤔 More About Me 
 
 ## Hi, I'm **Rohit Singh**, a passionate and dedicated Full-Stack Developer and AI enthusiast.  
@@ -140,9 +161,12 @@
 ## I'm always eager to learn new technologies, take on challenges, and collaborate on meaningful projects that make a real impact.
 
 
+
 ## 📈 Github Metrics 
 
 ![](https://github.com/rkstm7)  
+
+
 
 ## 📈 Github Stats
 
