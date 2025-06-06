@@ -196,7 +196,9 @@
 
 </div>
 
-<img align='center'  height="60" alt="Thanks" width="100%" src="/assets/Thanks.svg"/> 
+# Thank You!
+
+![Thank You](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
 
 
 [website1]: https://rkstm7.github.io/portfolio-rohit/
