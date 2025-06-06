@@ -35,7 +35,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/raajputrksingh?label=Follow&style=social)](https://x.com/raajputrksingh)
 [![GitHub rkstm7](https://img.shields.io/github/followers/rkstm7?label=follow&style=social)](https://github.com/rkstm7)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&label=Connect)](https://www.linkedin.com/in/rkstm7/)
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCnrxm7cZo9ntEQbNckKrdTg?style=social&label=Subscribe)](https://www.youtube.com/@rkstm7)
+[![Youtube](https://img.shields.io/youtube/channel/subscribers/UCnrxm7cZo9ntEQbNckKrdTg?style=social&label=Subscribe)](https://www.youtube.com/@rkstm7)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=social&label=follow&logo=instagram)](https://www.instagram.com/_rohitsingh7)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=social&label=visit&logo=HackerRank)](https://www.hackerrank.com/profile/rkstm9)
 
