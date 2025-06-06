@@ -9,16 +9,6 @@
 </p>
 
 
-
-## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25"> Connect with me 
-
-[<img align="left" alt="Rohit" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Rohit" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-512.png" />][hackerrank]
-[<img align="left" alt="Rohit"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Rohit"  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rohit"  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[![](https://img.shields.io/badge/9113134541-25D366?style=social&logo=whatsapp&logoColor=green)](https://wa.me/919113134541)()
-
 ## Interesting Facts !!! 🤔
 
 - 🔭 I love Problem Solving and Application Development !!!
@@ -30,6 +20,9 @@
 - 😄 Pronouns: He/Him
 - 🥅 2025 Goals: Contribute more, learn and Create more !!
 - ⚡ Fun fact: Big Fan to Listen Music & Sketching
+
+
+## Connect With Me !!!👨‍💻
 
 [![Twitter](https://img.shields.io/twitter/follow/raajputrksingh?label=Follow&style=social)](https://x.com/raajputrksingh)
 [![GitHub rkstm7](https://img.shields.io/github/followers/rkstm7?label=follow&style=social)](https://github.com/rkstm7)
