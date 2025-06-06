@@ -192,13 +192,14 @@
 
 <div align="center">
 
-## Show some ❤️ by starring some of the repositories!
+## Support us by giving a ⭐ to the repository!
 
 </div>
 
 # Thank You!
 
-![Thank You](https://media.giphy.com/media/111ebonMs90YLu/giphy.gif)
+![Thank You](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWhrYzhxMmpxYjN1ZHVlaTd6amFmb2F5N2drNGxpc25hMG4wZXZmYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LmNwrBhejkK9EFP502/giphy.gif)
+
 
 
 [website1]: https://rkstm7.github.io/portfolio-rohit/
